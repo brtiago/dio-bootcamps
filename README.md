@@ -22,8 +22,8 @@ Este projeto permite que usuários insiram dados bancários (número da conta, a
 
 1. **Clone o repositório (ou copie o código):**
    ```bash
-   git clone https://github.com/seu-usuario/conta-terminal.git
-   cd conta-terminal
+   git clone https://github.com/brtiago/dio-conta-banco.git
+   cd dio-conta-banco
    ```
 
 2. **Compile o arquivo Java:**
